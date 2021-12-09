@@ -18,7 +18,7 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/buttonViewSavedImages"
-        android:layout_width="@dimen/_110sdp"
+        android:layout_width="@dimen/_130sdp"
         android:layout_height="@dimen/_190sdp"
         android:layout_marginEnd="@dimen/_10sdp"
         android:backgroundTint="@color/white"
@@ -35,7 +35,7 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/buttonEditNewImages"
-        android:layout_width="@dimen/_110sdp"
+        android:layout_width="@dimen/_130sdp"
         android:layout_height="@dimen/_190sdp"
         android:layout_marginStart="@dimen/_10sdp"
         android:backgroundTint="@color/white"
